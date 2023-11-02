@@ -1,0 +1,14 @@
+.deleteBtn {
+    width: 110px;
+    height: 40px;
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+
+    border-radius: 4px;
+    border: 1px solid rgb(29, 18, 7);
+    background-color: #e0d910;
+
+    font-size: 16px;
+    font-weight: bold;
+}
